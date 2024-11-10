@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"79ce1d31aef33ae0","type":"text","text":"","x":-125,"y":-30,"width":250,"height":60},
+		{"id":"d9e142775fa97cdf","type":"file","file":"Obsidian/_resources/images/баннер-2.png","x":-200,"y":-200,"width":400,"height":227},
+		{"id":"3c9981e491188276","type":"file","file":"Obsidian/_resources/images/баннер-3.png","x":-200,"y":-200,"width":399,"height":228},
+		{"id":"fb5a2f0a5e78f9c8","type":"text","text":"Пример загрузки баннера","x":-125,"y":-360,"width":250,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"bc19f8c47d31f5df","fromNode":"fb5a2f0a5e78f9c8","fromSide":"right","toNode":"3c9981e491188276","toSide":"right"}
+	]
+}
